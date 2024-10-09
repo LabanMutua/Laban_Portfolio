@@ -4,7 +4,7 @@ Welcome!
 
 With just one click, you can explore my data projects without the need to navigate through multiple repositories. Each project showcases my expertise in data analysis and visualization, demonstrating my ability to transform raw data into actionable insights.
 
-Feel free to connect with me on    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LabanMutua)      or       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/laban-mutua/)    for feedback or collaboration opportunities!
+Feel free to connect with me on    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/LabanMutua)      or       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/laban-mutua/)    for feedback or collaboration opportunities!
 
 
 # [Project 1: E-commerce Data Analysis](https://github.com/LabanMutua/E-Commerce-Data-Analysis)
