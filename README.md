@@ -15,3 +15,5 @@ Developed an end-to-end analysis pipeline for an e-commerce dataset to derive in
 - Created visualizations of sales trends, top products, and geographic distribution to communicate key findings.
 - Provided actionable recommendations to optimize inventory management, customer engagement, and global sales strategy.
 - Implemented in Jupyter Notebook using Python (Pandas, NumPy, Matplotlib, Seaborn).
+
+(/assets/sales_trend.png)
