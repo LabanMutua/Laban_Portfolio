@@ -6,7 +6,7 @@ With just one click, you can explore my data projects without the need to naviga
 
 Feel free to connect with me on    [github<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/LabanMutua)      or       [linkedin<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/laban-mutua/)    for feedback or collaboration opportunities!
 
-# [Project 1: Supermarket Sales Analysis]()
+# [Project 1: Supermarket Sales Analysis](https://github.com/LabanMutua/Supermarket-Sales-Analysis)
 Developed an end-to-end analysis pipeline for a supermarket sales dataset to uncover trends, customer behavior, and performance insights.
 
 - Analyzed 1,000 transactions to identify sales patterns across branches, product lines, and payment methods.
