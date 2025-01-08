@@ -2,9 +2,11 @@
 
 Welcome!
 
-With just one click, you can explore my data projects without the need to navigate through multiple repositories. Each project showcases my expertise in data analysis and visualization, demonstrating my ability to transform raw data into actionable insights. To access the project in Github, click on the project title.
+Access all my data projects in one place with a single click. Each project showcases my expertise in data analysis, visualization, and machine learning, turning raw data into actionable insights.
 
 Feel free to connect with me on    [github<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/LabanMutua)      or       [linkedin<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.linkedin.com/in/laban-mutua/)    for feedback or collaboration opportunities!
+
+**🔆To access any of the projects in Github, click on the project title.**
 
 # [Project 1: Supermarket Sales Analysis](https://github.com/LabanMutua/Supermarket-Sales-Analysis)
 Developed a comprehensive analysis pipeline for a supermarket sales dataset to uncover sales trends, customer behavior, and business performance insights.
@@ -23,7 +25,7 @@ Explore the interactive Tableau dashboard to visualize key findings, including b
 ![](/assets/sales_dashboard.png)
 
 
-# [Project 2: Diabetes Prediction Model]()
+# [Project 2: Diabetes Prediction Model](https://github.com/LabanMutua/Diabetes-Prediction)
 This project involved building a machine learning model to predict the likelihood of diabetes in individuals based on several diagonistic measurements.
 
 ## Key Highlights:
@@ -34,7 +36,7 @@ This project involved building a machine learning model to predict the likelihoo
 - **Actionable Insights:** Provided insights into the most suitable model as well as appropriate alternatives.
 - **Tools and Technologies:** Implemented using Python (Pandas, Scikit-learn, Matplotlib, Seaborn) in Jupyter Notebook.
 
-
+![](/assets/accuracy.png)
 
 # [Project 3: E-commerce Data Analysis](https://github.com/LabanMutua/E-Commerce-Data-Analysis)
 Developed an end-to-end analysis pipeline for an e-commerce dataset to derive insights on customer behavior, sales trends, and product performance.
